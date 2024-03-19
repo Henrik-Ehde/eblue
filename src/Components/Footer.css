@@ -1,0 +1,22 @@
+.Footer
+{
+
+    box-sizing: border-box;
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+
+    ul
+    {
+        list-style: none;
+        display:flex;
+        gap: 1rem;
+    }
+    
+    a{
+        color:white;
+        text-decoration: none;
+    }
+}
