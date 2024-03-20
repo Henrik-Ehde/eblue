@@ -4,7 +4,7 @@ import Footer from "../Components/Footer";
 export default function About() {
     return <>
         <Navbar />
-        <h1>About - Under construction</h1>
+        <h1>Home - Under construction</h1>
         <Footer />
 
     </>
