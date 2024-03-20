@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 export default function Navbar() {
   return (
     <nav>
-      <Link to="/">Home</Link>
-      <Link to="/about">About</Link>
-      <Link to="/contact">Contact</Link>
-      <Link to="/products">Products</Link>
+      <Link to="/eblue">Home</Link>
+      <Link to="/eblue/about">About</Link>
+      <Link to="/eblue/contact">Contact</Link>
+      <Link to="/eblue/products">Products</Link>
     </nav>
   );
 }
