@@ -1,14 +1,15 @@
 import './Navbar.css';
 import React from 'react';
 import { Link } from 'react-router-dom';
-// Ugly navbar - need styling
+import { NavLink } from 'react-router-dom';
+
 export default function Navbar() {
   return (
     <nav>
-      <Link to="/eblue">Home</Link>
-      <Link to="/eblue/about">About</Link>
-      <Link to="/eblue/contact">Contact</Link>
-      <Link to="/eblue/products">Products</Link>
+      <NavLink end activeClassName="active" to="/eblue">Home</NavLink>
+      <NavLink activeClassName="active" to="/eblue/about">About</NavLink>
+      <NavLink activeClassName="active" to="/eblue/contact">Contact</NavLink>
+      <NavLink activeClassName="active" to="/eblue/products">Products</NavLink>
     </nav>
   );
 }
