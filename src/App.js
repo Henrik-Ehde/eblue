@@ -9,6 +9,7 @@ import Products from './Pages/Products';
 function App() {
   return <Routes>
     <Route path="/" element={ <HomePage />} />
+    <Route path="/eblue" element={ <HomePage />} />
     <Route path="/about" element={<About />} />
     <Route path="/contact" element={<Contact />} />
     <Route path="/products" element={<Products />} />
