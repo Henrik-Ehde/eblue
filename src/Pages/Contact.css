@@ -1,0 +1,26 @@
+.Contact
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    text-align: center;
+    flex-wrap: wrap;
+    gap:50px;
+
+    img
+    {
+        width: 130px;
+        height: 130px;
+    }
+
+    p{
+        font-weight: bold;
+    }
+
+    @media only screen and (min-width: 800px) {
+        /* For desktop: */
+        flex-direction: row;       
+    }
+
+}
