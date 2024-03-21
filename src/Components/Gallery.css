@@ -1,6 +1,20 @@
+.ProductType {
+    text-align: center;
+}
+
 .Gallery {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 10px
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+@media only screen and (min-width: 800px) {
+
+    /* For desktop: */
+    .Gallery {
+        flex-direction: row;
+    }
 }
