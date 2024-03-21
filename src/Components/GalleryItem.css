@@ -1,0 +1,19 @@
+.GalleryItem {
+    border: 1px outset black ;
+    box-shadow: 5px 5px 10px gainsboro;    
+    text-align: center;
+    padding: 10px;
+    max-width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.GalleryItem img{
+    width: 100%;
+}
+
+.GalleryItem div{
+/* Info & price */
+
+}

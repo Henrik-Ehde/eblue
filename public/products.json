@@ -1,0 +1,8 @@
+[
+{"id":1, "type": "HDMI", "img":"h1.png", "info":"HDMI cable white", "price":3},
+{"id":2, "type": "HDMI", "img":"h2.png", "info":"HDMI cable black", "price":2},
+{"id":3, "type": "HDMI", "img":"h3.png", "info":"HDMI cable silver", "price":3},
+{"id":6, "type": "USB", "img":"u1.png", "info":"USB adapter white", "price":2},
+{"id":7, "type": "USB", "img":"u2.png", "info":"USB adapter black", "price":3},
+{"id":8, "type": "USB", "img":"u3.png", "info":"USB adapter silver", "price":4}
+]
