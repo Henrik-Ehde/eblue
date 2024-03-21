@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/eblue/static/css/main.d4a0ce5c.css",
-    "main.js": "/eblue/static/js/main.dcb026b6.js",
+    "main.css": "/eblue/static/css/main.35a6d792.css",
+    "main.js": "/eblue/static/js/main.774434e8.js",
     "static/js/453.2de6e02e.chunk.js": "/eblue/static/js/453.2de6e02e.chunk.js",
     "static/media/eBlue-Banner.jpg": "/eblue/static/media/eBlue-Banner.cf5d3be67377e9d72dad.jpg",
+    "static/media/about.jpg": "/eblue/static/media/about.7ccb6213ee2e8bb1a684.jpg",
     "index.html": "/eblue/index.html",
-    "main.d4a0ce5c.css.map": "/eblue/static/css/main.d4a0ce5c.css.map",
-    "main.dcb026b6.js.map": "/eblue/static/js/main.dcb026b6.js.map",
+    "main.35a6d792.css.map": "/eblue/static/css/main.35a6d792.css.map",
+    "main.774434e8.js.map": "/eblue/static/js/main.774434e8.js.map",
     "453.2de6e02e.chunk.js.map": "/eblue/static/js/453.2de6e02e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a0ce5c.css",
-    "static/js/main.dcb026b6.js"
+    "static/css/main.35a6d792.css",
+    "static/js/main.774434e8.js"
   ]
 }
