@@ -1,6 +1,6 @@
 
 #root {
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   /* align-items: center; */
@@ -9,5 +9,10 @@
   
   background-color: #F4F5F6;
   color: #313638;
+}
+
+h1
+{
+  text-align: center;
 }
 
