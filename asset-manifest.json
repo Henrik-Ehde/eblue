@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/eblue/static/css/main.492d68f4.css",
-    "main.js": "/eblue/static/js/main.76fadd85.js",
+    "main.css": "/eblue/static/css/main.d4a0ce5c.css",
+    "main.js": "/eblue/static/js/main.dcb026b6.js",
     "static/js/453.2de6e02e.chunk.js": "/eblue/static/js/453.2de6e02e.chunk.js",
+    "static/media/eBlue-Banner.jpg": "/eblue/static/media/eBlue-Banner.cf5d3be67377e9d72dad.jpg",
     "index.html": "/eblue/index.html",
-    "main.492d68f4.css.map": "/eblue/static/css/main.492d68f4.css.map",
-    "main.76fadd85.js.map": "/eblue/static/js/main.76fadd85.js.map",
+    "main.d4a0ce5c.css.map": "/eblue/static/css/main.d4a0ce5c.css.map",
+    "main.dcb026b6.js.map": "/eblue/static/js/main.dcb026b6.js.map",
     "453.2de6e02e.chunk.js.map": "/eblue/static/js/453.2de6e02e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.492d68f4.css",
-    "static/js/main.76fadd85.js"
+    "static/css/main.d4a0ce5c.css",
+    "static/js/main.dcb026b6.js"
   ]
 }
