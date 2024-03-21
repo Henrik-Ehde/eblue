@@ -10,14 +10,11 @@
     justify-content: space-around;
     margin: auto 0;
 
-
     img {
         max-width: 100%;
     }
 
-    p{
-        margin: 10px;
-    }
+
 
     @media only screen and (min-width: 900px) {
         /* For desktop: */
