@@ -2,7 +2,7 @@ import './Gallery.css';
 import React from 'react';
 import GalleryItem from './GalleryItem';
 import data from '../products.json';
-let result = "testing";
+
 
 export default function Gallery() {
     
