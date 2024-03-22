@@ -5,16 +5,19 @@ Welcome to Eblue - your one-stop destination for all your shopping needs! This R
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Planned Features](#plannedfeatures)
+- [Planned Features](#planned-features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
 Eblue is an e-commerce website built using React, designed to provide users with a convenient platform for browsing and purchasing products. With a clean and intuitive interface, Eblue aims to enhance the online shopping experience for both buyers and sellers.
 
 ## Planned Features
+
+**Note:** This project is currently under development. Not all planned features have been implemented.
 
 - **User Authentication:** Secure user authentication system allowing users to create accounts, log in, and manage their profiles.
 - **Product Catalog:** Browse through a wide range of products categorized for easy navigation.
@@ -49,6 +52,9 @@ We welcome contributions from the community to help improve Eblue and make it ev
 4. Push your changes to your fork.
 5. Open a pull request to the `main` branch of the original repository, describing your changes in detail.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. See the `LICENSE` file for more details.
 
 ---
 
