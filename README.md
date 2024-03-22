@@ -9,7 +9,6 @@ Welcome to Eblue - your one-stop destination for all your shopping needs! This R
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
