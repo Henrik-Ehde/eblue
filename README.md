@@ -5,7 +5,7 @@ Welcome to Eblue - your one-stop destination for all your shopping needs! This R
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Planned Features](#plannedfeatures)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,7 +14,7 @@ Welcome to Eblue - your one-stop destination for all your shopping needs! This R
 
 Eblue is an e-commerce website built using React, designed to provide users with a convenient platform for browsing and purchasing products. With a clean and intuitive interface, Eblue aims to enhance the online shopping experience for both buyers and sellers.
 
-## Features
+## Planned Features
 
 - **User Authentication:** Secure user authentication system allowing users to create accounts, log in, and manage their profiles.
 - **Product Catalog:** Browse through a wide range of products categorized for easy navigation.
