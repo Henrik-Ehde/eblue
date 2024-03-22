@@ -7,6 +7,11 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
+    border-radius: 5%;
+    background-color: white;
+
+    font-weight: 500;
 }
 
 .GalleryItem img {
@@ -16,6 +21,22 @@
 .GalleryItem div {
     /* Info & price */
     font-size: 0.85rem;
+}
+
+.GalleryItem button {
+
+    background-color: #3030ff;
+    color: white;
+    font-weight: bold;
+    border-radius: 10%;
+}
+
+.GalleryItem button:hover {
+    background-color: #0000e8;
+}
+
+.GalleryItem:hover {
+    background-color:#fffff0
 }
 
 @media only screen and (min-width: 800px) {
