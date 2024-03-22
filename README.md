@@ -5,7 +5,7 @@ Welcome to Eblue - your one-stop destination for all your shopping needs! This R
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [PlannedFeatures](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
